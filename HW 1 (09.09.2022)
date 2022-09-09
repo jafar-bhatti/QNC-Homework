@@ -1,0 +1,3 @@
+Exercise 1: If someone gets a positive test, I would not say that the positive test on its own is statistically significant. I would say that the probability that the positive test is accurate is 95% and that there is 5% chance that the positive test result does not mean that the individual has HIV.
+
+Exercise 2: There is a 95% chance that if someone gets a postive test, that they are infected with HIV. To calculate the posterior probability (Baysian analysis) would mean to include the overall rate of HIV infection. This would be the "prior" in the calculation and would heavily impact the probability that someone is infected, given a positive test. 
